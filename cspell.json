@@ -6,5 +6,8 @@
     "words": [],
     "ignoreWords": [],
     "import": [],
-    "language": "en,pt-BR,pt"
+    "language": "en,pt-BR,pt",
+    "enabledFileTypes": {
+        "plaintext": true
+    }
 }
